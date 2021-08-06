@@ -1,0 +1,9 @@
+ GPU isn't used 
+mini_batch = 1, batch = 16, time_steps = 1, train = 0 
+
+ seen 64, trained: 70 K-images (1 Kilo-batches_64) 
+ Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/ed4-shp1.jpg: Predicted in 2989.910000 milli-seconds.
+Ed: 20%	(left_x:  123   top_y:   63   width:  152   height:  106)
