@@ -11,7 +11,7 @@ while True:
     frame = draw_boxes(detections, frame, net[2])
     # show frame
     cv2.imshow('frame', frame)
-
+    
     k = cv2.waitKey(1)
     if k == 27:
         break
